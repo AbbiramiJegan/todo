@@ -25,12 +25,12 @@ This is a simple web-based to-do list application built using Django. Users can 
 
 2. Navigate to the project directory:
    ```
-   cd todo-app
+   cd todo
    ```
 
-3. Install dependencies (assuming you have Python and pip installed):
+3. Ensure you have Python, Django, and pip installed. Install Django and other dependencies using pip:
    ```
-   pip install -r requirements.txt
+   py -m pip install Django
    ```
 
 4. Run migrations:
